@@ -1,4 +1,4 @@
-Greenhouse IoT Monitoring System(MohammadMahdi Rezazadeh's bachelor final project, supervisors: DR. Aminian & DR. Shekarian at university of Guilsn)
+Greenhouse IoT Monitoring System(MohammadMahdi Rezazadeh's bachelor final project, supervisors: DR. Aminian & DR. Shekarian at university of Guilan)
 This repository contains the full code and documentation for an IoT project designed to monitor and manage a greenhouse environment. The project is built around an ESP32 microcontroller that collects real-time data from various sensors and logs it to the cloud.
 
 The project is structured into two parallel implementations: a stable, final version for direct cloud logging and a separate branch dedicated to an experimental edge processing architecture.
